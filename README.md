@@ -12,3 +12,13 @@ Halite 1 #1 Machine Learning Bot.
 
 https://github.com/HaliteChallenge/Halite-III
 Main repo
+
+https://github.com/fohristiwhirl/dubnium
+Alternate Halite 3 engine
+
+https://github.com/fohristiwhirl/iodine
+Realtime viewer for Halite 3 games. Works with dubnium
+
+https://github.com/fohristiwhirl/fluorine
+Replay viewer for Halite 3, in JS (Electron)
+
